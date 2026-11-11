@@ -1,0 +1,6 @@
+{
+  "name": "Star Catcher",
+  "description": "Catch glowing stars and dodge dangerous bombs in this delightful 2D arcade night-sky game with smooth canvas physics, particle bursts, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
